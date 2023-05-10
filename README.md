@@ -1,1 +1,1 @@
-# Go To machineLearning_final.ipynb pleaze
+# Please go to machineLearning_final.ipynb
